@@ -1,0 +1,44 @@
+.navbar-container{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    background-color: #f0baba;
+}
+
+.navbar-list{
+    float: left;
+}
+
+.navbar-li{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+.header-container{
+    padding: 40px;
+    text-align: center;
+    background: #a75b5b;
+    color:white;
+    font-size: 20px;
+}
+
+.content-container{
+    padding: 20px 10px 20px 10px;
+    background: #e0caca;
+    color:rgb(146, 96, 96);
+}
+
+.footer-container{
+    left:0;
+    bottom:0;
+    width: 100%;
+    background-color: #f0baba;
+    color:white;
+    padding: 10px;
+
+}
